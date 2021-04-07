@@ -7,7 +7,11 @@ A slide presentation put together to explain aspects of why & how I use UFOs in 
 - [The UFO Spec](https://unifiedfontobject.org/)
 - [The FontParts API](https://fontparts.robotools.dev/en/stable/index.html)
 - [RoboFont](http://robofont.com/)
-- ufoNormalizer
+- Skateboard
+- Prepolator
+- Metrics Machine
+- mm2SpaceCenter
+- [ufoNormalizer](https://github.com/unified-font-object/ufoNormalizer)
 
 ## Resources mentioned include
 
@@ -17,6 +21,6 @@ A slide presentation put together to explain aspects of why & how I use UFOs in 
   - Checking for anchor compatibility
 - Blog post: [Getting the most out of RoboFont](https://blog.arrowtype.com/robofont-tips/)
 - Other scripts
-  - Add anchors to fonts
+  - [Add starter anchors to fonts](https://gist.github.com/arrowtype/87c5049f9e7ef36f08340e534a4cf9e0)
 
 [to be continued]
